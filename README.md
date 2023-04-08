@@ -38,7 +38,14 @@ Udacity flying car and autonomous flight engineer nano-degree program.
 - Lesson Overview - https://youtu.be/wIRJPPH2gkc
 - Simulator Demonstration - https://youtu.be/8zpkGojsw6g
 - Simulator Exploration - Manual Flight - https://github.com/udacity/FCND-Simulator-Releases/releases
-- Fligth Computer Programming - https://youtu.be/8TFLgWGyfrg
+- Flight Computer Programming - https://youtu.be/8TFLgWGyfrg
+- Environment Setup - https://github.com/udacity/FCND-Term1-Starter-Kit.git
+- Simulator Exploration - Programmatic Flight - https://github.com/udacity/udacidrone
+- The Problems with Sequential Execution - https://youtu.be/TCz0PkLoxgU
+- Event Driven Programming Explained - https://youtu.be/f_GPA9ULqJU
+- A Simple Flight Plan - https://youtu.be/Lq4DmvlsJAI 
+- Phases of Flight - https://youtu.be/IZjLJxSYdRM
+- 
 
 ### Drone Integration
 
@@ -69,7 +76,7 @@ Udacity flying car and autonomous flight engineer nano-degree program.
 ## 05. Fixed Wing
 ### Introduction to Fixed-Wing Flight
 ### Lift and Drag
-### Logitudinal Model
+### Longitudinal Model
 ### Lateral-Directional Model
 ### Fixed-Wing Autopilot
 ### Optional Project: Fixed Wing Control
