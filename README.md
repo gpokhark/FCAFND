@@ -45,9 +45,30 @@ Udacity flying car and autonomous flight engineer nano-degree program.
 - Event Driven Programming Explained - https://youtu.be/f_GPA9ULqJU
 - A Simple Flight Plan - https://youtu.be/Lq4DmvlsJAI 
 - Phases of Flight - https://youtu.be/IZjLJxSYdRM
-- 
 
 ### Drone Integration
+- Intel Aero Unboxing - https://youtu.be/_4r9ghv6Mm8
+- Intel Aero First Boost - https://youtu.be/jXKZwWdhLpA
+  - Flight modes - https://youtu.be/CemgWroChSE
+  - The Remote Control - https://youtu.be/_Ei05vGbttg
+- A Note on Safety - https://youtu.be/4-9CidAXkNI
+  - Know Before You Fly - https://knowbeforeyoufly.org/home
+  - Registering your drone - https://www.faa.gov/uas/getting_started
+  - Part 107 - https://www.faa.gov/uas/commercial_operators/part_107_airspace_authorizations
+  - Drone Regulation - https://youtu.be/gKulshbx8J0
+  - Community guidelines - https://www.modelaircraft.org/system/files/documents/105.pdf
+- Intel Aero Setup - https://youtu.be/TNoqm87Yd6c
+  - https://github.com/intel-aero/meta-intel-aero/wiki/08-Aero-Network-and-System-Administration
+  - https://github.com/intel-aero/meta-intel-aero/wiki/02-Initial-Setup
+  - https://github.com/intel-aero/meta-intel-aero/wiki
+- Getting Familiar with QGroundControl - https://youtu.be/z4_m_IIek-Q
+- Configure PX4 - https://youtu.be/q2S4JOSX9wA
+  - https://docs.px4.io/main/en/ros/offboard_control.html
+- Modifying Backyard Flyer - https://udacity.github.io/udacidrone/docs/connection-api.html
+- Let's go Fly - https://youtu.be/XPH-WR0i-Xs
+- Crazyflie Introduction - https://www.bitcraze.io/documentation/tutorials/getting-started-with-crazyflie-2-x/
+- Crazyflie Keyboard Control - https://github.com/bitcraze/crazyflie-lib-python
+
 
 ## 02. Planning
 ### Planning as Search

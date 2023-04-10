@@ -190,4 +190,5 @@ pyrightconfig.json
 create_container.sh
 
 # Ignore Logs folder created by the udacidrone
-Logs/*
+Logs/
+*/Logs/*
