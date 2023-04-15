@@ -95,6 +95,23 @@ Udacity flying car and autonomous flight engineer nano-degree program.
 - Summary - https://youtu.be/MlvfEd8REJI
 
 ### Flying Car Representation
+- Sebastian Introduction - https://youtu.be/54bXmWz_U7k
+- Introduction - https://youtu.be/PsHOHInwDIk
+- Geodetic Frame - https://youtu.be/CwA1L8uJ71I
+- ECEF (Earth Center Earth Fixed) Frame - (NED - North East Down Frame)- https://youtu.be/9e3Gl-b_rvw
+  - Right hand cartesian co-ordinates
+- Geodetic to NED Exercise - Jupyter notebook - [Geodetic to NED Exercise](./02_Planning/Geodetic%20to%20NED.ipynb)
+  - https://pypi.org/project/utm/
+  - https://en.wikipedia.org/wiki/Universal_Transverse_Mercator_coordinate_system
+- Body Frame - https://youtu.be/JEDZyWtco5k
+  - It is important for knowing the locations of the sensors on the body of the vehicle for sensor fusion.
+  - This is the best cooridnate frame for representing control inputs such as velocities and accelerations.
+- Eulers angles - https://youtu.be/C5bRTJ9UGgA
+  - roll - counter clockwise positive - X axis
+  - pitch - counter clockwise positive - Y axis
+  - yaw - counter clockwise positive - Z axis
+- Gimbal Lock - https://youtu.be/gWL0oXWADSU
+
 ### From Grids to Graph
 ### Moving in to 3D
 ### Real World Planning
