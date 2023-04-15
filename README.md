@@ -72,6 +72,28 @@ Udacity flying car and autonomous flight engineer nano-degree program.
 
 ## 02. Planning
 ### Planning as Search
+- Sebastian Introduction - https://youtu.be/2s3Pxc6AS8Y
+- Transition to Planning - https://youtu.be/0nyCrWuO1QM
+- The Planning Problem - https://youtu.be/oyPT3qirXPk
+- Search Space - https://youtu.be/vsMQtkOjT3c
+- Grid Representation - https://youtu.be/WcC-CfvQuJI
+- Search - https://youtu.be/_iJ_pPZcLJc
+- Partial Plans - https://youtu.be/zcuT9e4TgKo
+- Breadth vs Depth - https://youtu.be/mtBKgqxjCyQ
+  - Breadth-First Search - always expands shortest plan first
+  - finds the shortest path to goal
+  - computationally intensive
+  - Depth first - expands last successful
+  - requires a bit of luck
+  - can fail completely
+- Breadth-First Search Exercise - Jupyter Notebook - [BFS](./02_Planning/BFS.ipynb)
+- Cost - https://youtu.be/qEYbn-jq7Qg
+- Cost Exercise - Jupyter Notebook - [Cost](./02_Planning/Cost.ipynb)
+- Heuristics - https://youtu.be/qBAwN2r573Q
+- A* - https://youtu.be/yT-8YRxSkqk
+- A* Exercise - Jupyter Notebook - [A-Star](./02_Planning/A-Star.ipynb)
+- Summary - https://youtu.be/MlvfEd8REJI
+
 ### Flying Car Representation
 ### From Grids to Graph
 ### Moving in to 3D
