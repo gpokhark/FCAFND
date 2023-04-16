@@ -111,6 +111,20 @@ Udacity flying car and autonomous flight engineer nano-degree program.
   - pitch - counter clockwise positive - Y axis
   - yaw - counter clockwise positive - Z axis
 - Gimbal Lock - https://youtu.be/gWL0oXWADSU
+  - 3 Axis Gimbal Simulator - https://github.com/udacity/FCND-Gimbal-Demo/releases/tag/v1.0
+- Rotation Matrices - https://youtu.be/sUoaCP9S9V8
+  - Rotations in Three Dimensions: Euler Angles and Rotation Matrices - https://danceswithcode.net/engineeringnotes/rotations_in_3d/rotations_in_3d_part1.html
+  - Jupyter Notebook - [Rotations](./02_Planning/Rotations.ipynb)
+- Quaternions - https://youtu.be/Jwelviv1ZNY
+- Quarternion Exercise
+  - https://youtu.be/SZXHoWwBcDc
+  - Jupyter Notebook - [Quaternions](./02_Planning/Quaternions.ipynb)
+- Motions as Transformations - https://youtu.be/1Lp4eNjhwxs
+- Configuration space - https://youtu.be/a08D9WnuRHU
+  - https://www.youtube.com/watch?v=SBFwgR4K1Gk
+- Configuration Space Exercise - Jupyter Notebook - [Configuration-Space](./02_Planning/Configuration-Space.ipynb)
+- Summary - https://youtu.be/iXzj0F2zhKk
+  - https://mzucker.github.io/swarthmore/
 
 ### From Grids to Graph
 ### Moving in to 3D
