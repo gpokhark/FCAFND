@@ -127,6 +127,28 @@ Udacity flying car and autonomous flight engineer nano-degree program.
   - https://mzucker.github.io/swarthmore/
 
 ### From Grids to Graph
+- Sebastian Introduction - https://youtu.be/MYtJg8fe4U4
+- Introduction to Graphs - https://youtu.be/ikh_CDbMwec
+- Waypoint Extraction - https://youtu.be/rI5AJGHStxA
+- Collinearity - https://youtu.be/NsmiEpZKYJU
+- Collinearity Exercise - Jupyter Notebook - [Collinearity](./02_Planning/Collinearity.ipynb)
+- Ray Tracing - https://youtu.be/BiPdcTmi5Yg
+- Bresenham - https://youtu.be/DhLZnsJxd-E
+- Bresenham Exercise - Jupyter Notebook - [Bresensham](./02_Planning/Bresenham.ipynb)
+- Putting it all together - Jupyter Notebook - [A-Star-City](./02_Planning/A-Star-City.ipynb)
+- Grids to Graphs - https://youtu.be/DDamvBxXP3I
+- Graph Tradeoffs - https://youtu.be/gQvoAaAYP88
+- Generating Graphs - https://youtu.be/Pj1U6VHs1w4
+- Medial Axis - Jupyter Notebook - [Medial-Axis](./02_Planning/Medial-Axis.ipynb)
+- Voronoi Graph Exercise 
+  - SciPy Library - https://scipy.org/
+  - Voronoi Method - https://docs.scipy.org/doc/scipy-0.18.1/reference/generated/scipy.spatial.Voronoi.html
+  - Jupyter Notebook - [Voronoi Graphs](./02_Planning/Voronoi.ipynb)
+- Graph Search Exercise
+  - NetworkX package - https://networkx.org/ 
+- Deadbands - https://youtu.be/kswcczWbszA
+- Summary - https://youtu.be/RGkoXva9rSc
+
 ### Moving in to 3D
 ### Real World Planning
 ### Project: 3D Motion Planning
