@@ -86,12 +86,12 @@ Udacity flying car and autonomous flight engineer nano-degree program.
   - Depth first - expands last successful
   - requires a bit of luck
   - can fail completely
-- Breadth-First Search Exercise - Jupyter Notebook - [BFS](./02_Planning/BFS.ipynb)
+- Breadth-First Search Exercise - Jupyter Notebook - [BFS](./02_Planning/01_10_Breadth-First_Exercise/BFS.ipynb)
 - Cost - https://youtu.be/qEYbn-jq7Qg
-- Cost Exercise - Jupyter Notebook - [Cost](./02_Planning/Cost.ipynb)
+- Cost Exercise - Jupyter Notebook - [Cost](./02_Planning/01_12_Cost_Exercise/Cost.ipynb)
 - Heuristics - https://youtu.be/qBAwN2r573Q
 - A* - https://youtu.be/yT-8YRxSkqk
-- A* Exercise - Jupyter Notebook - [A-Star](./02_Planning/A-Star.ipynb)
+- A* Exercise - Jupyter Notebook - [A-Star](./02_Planning/01_15_A-Star_Exercise/A-Star.ipynb)
 - Summary - https://youtu.be/MlvfEd8REJI
 
 ### Flying Car Representation
@@ -100,7 +100,7 @@ Udacity flying car and autonomous flight engineer nano-degree program.
 - Geodetic Frame - https://youtu.be/CwA1L8uJ71I
 - ECEF (Earth Center Earth Fixed) Frame - (NED - North East Down Frame)- https://youtu.be/9e3Gl-b_rvw
   - Right hand cartesian co-ordinates
-- Geodetic to NED Exercise - Jupyter notebook - [Geodetic to NED Exercise](./02_Planning/Geodetic%20to%20NED.ipynb)
+- Geodetic to NED Exercise - Jupyter notebook - [Geodetic to NED Exercise](./02_Planning/02_05_Geodetic_to_NED/Geodetic%20to%20NED.ipynb)
   - https://pypi.org/project/utm/
   - https://en.wikipedia.org/wiki/Universal_Transverse_Mercator_coordinate_system
 - Body Frame - https://youtu.be/JEDZyWtco5k
@@ -114,15 +114,15 @@ Udacity flying car and autonomous flight engineer nano-degree program.
   - 3 Axis Gimbal Simulator - https://github.com/udacity/FCND-Gimbal-Demo/releases/tag/v1.0
 - Rotation Matrices - https://youtu.be/sUoaCP9S9V8
   - Rotations in Three Dimensions: Euler Angles and Rotation Matrices - https://danceswithcode.net/engineeringnotes/rotations_in_3d/rotations_in_3d_part1.html
-  - Jupyter Notebook - [Rotations](./02_Planning/Rotations.ipynb)
+  - Jupyter Notebook - [Rotations](./02_Planning/02_10_Euler_Rotations_Exercise/Rotations.ipynb)
 - Quaternions - https://youtu.be/Jwelviv1ZNY
 - Quarternion Exercise
   - https://youtu.be/SZXHoWwBcDc
-  - Jupyter Notebook - [Quaternions](./02_Planning/Quaternions.ipynb)
+  - Jupyter Notebook - [Quaternions](./02_Planning/02_12_Quarternion_Exercise/Quaternions.ipynb)
 - Motions as Transformations - https://youtu.be/1Lp4eNjhwxs
 - Configuration space - https://youtu.be/a08D9WnuRHU
   - https://www.youtube.com/watch?v=SBFwgR4K1Gk
-- Configuration Space Exercise - Jupyter Notebook - [Configuration-Space](./02_Planning/Configuration-Space.ipynb)
+- Configuration Space Exercise - Jupyter Notebook - [Configuration-Space](./02_Planning/02_15_Configuration_Space_Exercise/Configuration-Space.ipynb)
 - Summary - https://youtu.be/iXzj0F2zhKk
   - https://mzucker.github.io/swarthmore/
 
@@ -131,25 +131,45 @@ Udacity flying car and autonomous flight engineer nano-degree program.
 - Introduction to Graphs - https://youtu.be/ikh_CDbMwec
 - Waypoint Extraction - https://youtu.be/rI5AJGHStxA
 - Collinearity - https://youtu.be/NsmiEpZKYJU
-- Collinearity Exercise - Jupyter Notebook - [Collinearity](./02_Planning/Collinearity.ipynb)
+- Collinearity Exercise - Jupyter Notebook - [Collinearity](./02_Planning/03_05_collinearity_exercise/Collinearity.ipynb)
 - Ray Tracing - https://youtu.be/BiPdcTmi5Yg
 - Bresenham - https://youtu.be/DhLZnsJxd-E
-- Bresenham Exercise - Jupyter Notebook - [Bresensham](./02_Planning/Bresenham.ipynb)
-- Putting it all together - Jupyter Notebook - [A-Star-City](./02_Planning/A-Star-City.ipynb)
+- Bresenham Exercise - Jupyter Notebook - [Bresensham](./02_Planning/03_08_bresenham_exercise/Bresenham.ipynb)
+- Putting it all together - Jupyter Notebook - [A-Star-City](./02_Planning/03_09_putting_it_together/A-Star-City.ipynb)
 - Grids to Graphs - https://youtu.be/DDamvBxXP3I
 - Graph Tradeoffs - https://youtu.be/gQvoAaAYP88
 - Generating Graphs - https://youtu.be/Pj1U6VHs1w4
-- Medial Axis - Jupyter Notebook - [Medial-Axis](./02_Planning/Medial-Axis.ipynb)
+- Medial Axis - Jupyter Notebook - [Medial-Axis](./02_Planning/03_13_Medial_axis_exercise/Medial-Axis.ipynb)
 - Voronoi Graph Exercise 
   - SciPy Library - https://scipy.org/
   - Voronoi Method - https://docs.scipy.org/doc/scipy-0.18.1/reference/generated/scipy.spatial.Voronoi.html
-  - Jupyter Notebook - [Voronoi Graphs](./02_Planning/Voronoi.ipynb)
+  - Jupyter Notebook - [Voronoi Graphs](./02_Planning/03_14_Vornoi_Graph_Exercise/Voronoi.ipynb)
 - Graph Search Exercise
+  - Jupyter Notebook - [Graph-Search](03_15_Graph_Search_Exercise/Graph-Search.ipynb)
   - NetworkX package - https://networkx.org/ 
 - Deadbands - https://youtu.be/kswcczWbszA
 - Summary - https://youtu.be/RGkoXva9rSc
 
 ### Moving in to 3D
+- Sebastian Introduction - https://youtu.be/41DhFrk6m7s
+- Introduction - https://youtu.be/x7aDcy9xxrQ
+- 3D Grids - https://youtu.be/SzNLVvlvOvs
+- Voxel Map Exercise
+  - Jupyter Notebook - [Voxel-Map](./02_Planning/04_04_Voxel_Map_Exercise/Voxel-Map.ipynb)
+- 2.5D Maps - https://youtu.be/oWvl2yaoblY
+- Random Sampling - https://youtu.be/DtmF5xOx2P0
+- Random Sampling Exercise
+    - Shapely - https://shapely.readthedocs.io/en/stable/manual.html
+    - Jupyter Notebook - [Random-Sampling.ipynb](./02_Planning/04_07_Random_Sampling_Exercise/Random-Sampling.ipynb)
+- Probabilistic Roadmap
+- Probablistic Roadman Exercise
+- Local Planning
+- Receding Horizon
+- Receding Horizon Exercise
+- Replanning
+- Summary 
+- c3dc936d0a13
+  
 ### Real World Planning
 ### Project: 3D Motion Planning
 
