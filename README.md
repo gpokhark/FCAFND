@@ -160,18 +160,28 @@ Udacity flying car and autonomous flight engineer nano-degree program.
 - Random Sampling - https://youtu.be/DtmF5xOx2P0
 - Random Sampling Exercise
     - Shapely - https://shapely.readthedocs.io/en/stable/manual.html
-    - Jupyter Notebook - [Random-Sampling.ipynb](./02_Planning/04_07_Random_Sampling_Exercise/Random-Sampling.ipynb)
-- Probabilistic Roadmap
-- Probablistic Roadman Exercise
-- Local Planning
-- Receding Horizon
+    - Jupyter Notebook - [Random-Sampling](./02_Planning/04_07_Random_Sampling_Exercise/Random-Sampling.ipynb)
+- Probabilistic Roadmap - https://youtu.be/DCSe-uBfBNY
+- Probablistic Roadmap Exercise
+  - KD Tree - https://en.wikipedia.org/wiki/K-d_tree
+  - The Big O Notation - https://robbell.io/2009/06/a-beginners-guide-to-big-o-notation
+  - Shapely - https://shapely.readthedocs.io/en/stable/manual.html
+  - Scikit-learn - https://scikit-learn.org/stable/
+  - scikit-leanr KD tree - https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KDTree.html
+  - Jupyter Notebook - [Probabilistic-Roadmap](./02_Planning/04_09_Probabilistic_Roadmap_Exercise/Probabilistic-Roadmap.ipynb)
+- Local Planning - https://youtu.be/DsUE1rYvRyw
+- Receding Horizon - https://youtu.be/-wTe_AFFT-I
 - Receding Horizon Exercise
-- Replanning
-- Summary 
-- c3dc936d0a13
+  - Jupyter Notebook - [Receding-Horizon](./02_Planning/04_12_Receding_Horizon_Exercise/Receding-Horizon.ipynb)
+- Replanning - https://youtu.be/zcZbKZJ3D6s
+- Summary - https://youtu.be/ydWkeSB30zs
   
 ### Real World Planning
 ### Project: 3D Motion Planning
+- Sebastian Introduction - https://youtu.be/0ChnDlwpeBw
+- Project Intro - https://youtu.be/hR__HI_Ocew
+- Worspace Intro - 
+- 3D Motion Planning -
 
 ## 03. Controls
 ### Vehicle Dynamics
