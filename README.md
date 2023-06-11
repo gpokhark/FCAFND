@@ -177,11 +177,35 @@ Udacity flying car and autonomous flight engineer nano-degree program.
 - Summary - https://youtu.be/ydWkeSB30zs
   
 ### Real World Planning
+- Sebastian Introduction - https://youtu.be/uec2ezY4Hnk
+- Intro - https://youtu.be/E_pDGN3wfS0
+- Constraints - https://youtu.be/iDk8ODcGh7s
+- Modelling Dynamics - https://youtu.be/Ozo9tEhFs1s
+- Modeling Dynamics Exercise
+  - Jupyter Notebook - [Dynamics-Model](./02_Planning/05_05_Modeling_Dynamics_Exercise/Dynamics-Model.ipynb)
+- Dubins Car - https://youtu.be/rEMw-qF5V-w
+- Dubins Car Exercise
+  - Jupyter Notebook - [Dubins-Car](./02_Planning/05_07_Dubins_Car_Exercise/Dubins-Car.ipynb)
+- Steering - https://youtu.be/eFj0lswWYXo
+- Steering Exercise
+  - Jupyter Notebook - [Steering](./02_Planning/05_09_Steering_Exercise/Steering.ipynb)
+- RRT - https://youtu.be/THpH4DDabZM
+- RRT Exercise
+  - Jupyter Noebook - [RRT](./02_Planning/05_11_RRT_Exercise/RRT.ipynb)
+- Adding Obstacles - https://youtu.be/LEhEGaYFGZs
+- Potential Field Planning - https://youtu.be/4tbyckaBLh4
+- Potential Field Exercise
+  - Jupyter Notebook - [Potential-Field](./02_Planning/05_14_Potential_Field_Exercise/Potential-Field.ipynb)
+- Summary - https://youtu.be/jWNotyJJpRA
+  - Path Planning for Non-Circular Micro Aerial Vehicles in Constrained Environments - https://www.cs.cmu.edu/~maxim/files/pathplanforMAV_icra13.pdf
 ### Project: 3D Motion Planning
 - Sebastian Introduction - https://youtu.be/0ChnDlwpeBw
 - Project Intro - https://youtu.be/hR__HI_Ocew
 - Worspace Intro - 
 - 3D Motion Planning -
+- Review -
+  - Drone Programming - https://github.com/intel-aero/meta-intel-aero/wiki/04-Autonomous-drone-programming-in-Python
+  - An Evolution based path planning algorithm - https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.116.655&rep=rep1&type=pdf
 
 ## 03. Controls
 ### Vehicle Dynamics
