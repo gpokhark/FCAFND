@@ -209,6 +209,37 @@ Udacity flying car and autonomous flight engineer nano-degree program.
 
 ## 03. Controls
 ### Vehicle Dynamics
+- Sebastian Introduction - https://youtu.be/dzGdwiADfjs
+- Introduction to Vehicle Dynamics - https://youtu.be/EME6cpJF_aw
+- The Forces on A Quadrotor - https://youtu.be/F8BvMsR2VyU
+- Force and Translational Equilibrium - https://youtu.be/0bEHYCkPGTI
+- Rotational Equilibrium 1 - https://youtu.be/S9X9sJIeDIk
+    - Monorotor - https://youtu.be/P3fM6VwXXFM
+- Rotational Equilibrium 2 - https://youtu.be/scNi0w5aajM
+- Rotor Physics - https://youtu.be/DMXPYxnocdE
+- Unbalanced Forces Cause Linear Acceleration - https://youtu.be/7TiBKJsKwR0
+- F Equals MA - https://youtu.be/dA82iMkJMC4
+      ![F Equals MA](./03_Controls/FequalsMA.png)
+- Unbalanced Moment Causes Rotational Acceleration - https://youtu.be/qOXE8_cZRzU
+  - Z is positive down.
+      ![Unbalanced Moment](./03_Controls/unbalanced_moment.png)
+  - CW rotations are positive.
+      ![Unbalanced Moment 2](./03_Controls/unbalanced_moment_2.png)
+- Coaxial Drone Dynamics Exercise
+- Coaxial Dynamics Explained
+- Tracking Changes to State
+- Second Order Systems
+- Tracking Changes to State Exercise
+- Compact Representation of State
+- Uncontrolled Drone Exercise
+- Motion in Two Dimensions
+- Decomposing Thrust Vectors
+- Calculating Moments
+- Rotation Rates to Moments and Thrusts
+- Calcuation Accelerations in 2D Exercise
+- Controlling a 2D Quad
+- Controlling a 2D Drone Exercise
+- Summary
 ### Introduction to Vehicle Control
 ### Control Architecture
 ### Full 3D Control
