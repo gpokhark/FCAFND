@@ -201,7 +201,7 @@ Udacity flying car and autonomous flight engineer nano-degree program.
 ### Project: 3D Motion Planning
 - Sebastian Introduction - https://youtu.be/0ChnDlwpeBw
 - Project Intro - https://youtu.be/hR__HI_Ocew
-- Worspace Intro - 
+- Workspace Intro - 
 - 3D Motion Planning -
 - Review -
   - Drone Programming - https://github.com/intel-aero/meta-intel-aero/wiki/04-Autonomous-drone-programming-in-Python
@@ -226,7 +226,8 @@ Udacity flying car and autonomous flight engineer nano-degree program.
   - CW rotations are positive.
       ![Unbalanced Moment 2](./03_Controls/unbalanced_moment_2.png)
 - Coaxial Drone Dynamics Exercise
-- Coaxial Dynamics Explained
+  - Jupyter Notebook - [Coaxial Drone Exercise](./03_Controls/01_11_Coaxial_Drone_Dynamics_Exercise/1.%20Coaxial%20Drone%20Dynamics.ipynb)
+- Coaxial Dynamics Explained - https://youtu.be/0XkkWGxmZDM
 - Tracking Changes to State
 - Second Order Systems
 - Tracking Changes to State Exercise
@@ -236,7 +237,7 @@ Udacity flying car and autonomous flight engineer nano-degree program.
 - Decomposing Thrust Vectors
 - Calculating Moments
 - Rotation Rates to Moments and Thrusts
-- Calcuation Accelerations in 2D Exercise
+- Calculation Accelerations in 2D Exercise
 - Controlling a 2D Quad
 - Controlling a 2D Drone Exercise
 - Summary
